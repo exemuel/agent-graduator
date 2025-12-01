@@ -4,6 +4,8 @@
 
 This project contains the core logic for **Agent Graduator**, a sequential multi-agent system designed to automate the assessment of student PDF assignments. The agent is built using **LangChain** and **LangGraph**, utilizing a "Chain of Thought" architecture to read, fact-check, and grade submissions with university-level rigor.
 
+![Demo](./images/agent_graduator.mp4 "Demo")
+
 ### Problem Statement
 
 In higher education, grading is the single biggest bottleneck. It is **laborious**, requiring professors to spend countless hours parsing similar documents rather than teaching. It is **inconsistent**; "grading fatigue" often leads to variance in scores between the first paper graded and the last. Furthermore, manual grading is often opaque—students rarely receive a detailed breakdown of *why* they lost points on factual accuracy versus formatting. As class sizes grow, educators are forced to trade off between the depth of feedback and the speed of return.
