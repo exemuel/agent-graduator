@@ -4,7 +4,7 @@
 
 This project contains the core logic for **Agent Graduator**, a sequential multi-agent system designed to automate the assessment of student PDF assignments. The agent is built using **LangChain** and **LangGraph**, utilizing a "Chain of Thought" architecture to read, fact-check, and grade submissions with university-level rigor.
 
-[![Demo](./images/agent_graduator.jpg)](https://youtu.be/WPnKZZ2G5po)
+[![Demo](./images/agent_graduator.svg)](https://youtu.be/WPnKZZ2G5po)
 
 ### Problem Statement
 
