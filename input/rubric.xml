@@ -1,0 +1,79 @@
+<rubric>
+    <criterion>
+        <name>Penerapan Decomposition</name>
+        <weight>15</weight>
+        <levels>
+            <level percentage="100">Menguraikan masalah SDG menjadi 7 sub-masalah yang sangat spesifik dan relevan; Menjelaskan hubungan antar sub-masalah dengan sangat detail dan logis; Mengidentifikasi sub-masalah kritis dengan analisis yang mendalam dan alasan yang sangat kuat; Membuat diagram/skema yang sangat jelas, komprehensif, dan mudah dipahami</level>
+            <level percentage="80">Menguraikan masalah SDG menjadi 6 sub-masalah yang spesifik dan relevan; Menjelaskan hubungan antar sub-masalah dengan cukup detail dan logis; Mengidentifikasi sub-masalah kritis dengan analisis yang baik dan alasan yang kuat; Membuat diagram/skema yang jelas dan mudah dipahami</level>
+            <level percentage="60">Menguraikan masalah SDG menjadi 5 sub-masalah yang cukup spesifik; Menjelaskan hubungan antar sub-masalah dengan penjelasan yang standar; Mengidentifikasi sub-masalah kritis dengan analisis sederhana; Membuat diagram/skema yang cukup jelas namun kurang detail</level>
+            <level percentage="40">Menguraikan masalah SDG menjadi 4 sub-masalah yang kurang spesifik; Menjelaskan hubungan antar sub-masalah secara superfisial; Mengidentifikasi sub-masalah kritis tanpa analisis yang memadai; Membuat diagram/skema yang kurang jelas dan sulit dipahami</level>
+            <level percentage="20">Menguraikan masalah SDG menjadi 3 sub-masalah atau kurang; Tidak menjelaskan hubungan antar sub-masalah dengan jelas; Tidak dapat mengidentifikasi sub-masalah kritis dengan tepat; Membuat diagram/skema yang tidak jelas atau tidak ada</level>
+            <level percentage="0">Tidak menguraikan masalah SDG ke dalam sub-masalah; Tidak ada penjelasan hubungan antar komponen masalah; Tidak ada identifikasi prioritas masalah; Tidak ada diagram/skema yang dibuat</level>
+        </levels>
+    </criterion>
+    
+    <criterion>
+        <name>Penerapan Pattern Recognition</name>
+        <weight>15</weight>
+        <levels>
+            <level percentage="100">Mengidentifikasi 4 atau lebih pola/tren yang sangat relevan dan spesifik; Melakukan analisis temporal, spasial, dan demografis secara komprehensif; Membandingkan dengan 3 atau lebih contoh kasus dari daerah/negara lain dengan analisis mendalam; Menjelaskan dengan sangat detail bagaimana pola-pola ini berkontribusi untuk solusi</level>
+            <level percentage="80">Mengidentifikasi 3-4 pola/tren yang relevan dan cukup spesifik; Melakukan analisis temporal, spasial, atau demografis dengan baik; Membandingkan dengan 2-3 contoh kasus dari daerah/negara lain; Menjelaskan dengan baik bagaimana pola-pola ini dapat membantu solusi</level>
+            <level percentage="60">Mengidentifikasi 3 pola/tren yang cukup relevan; Melakukan satu jenis analisis (temporal/spasial/demografis) dengan cukup baik; Membandingkan dengan 2 contoh kasus dari daerah/negara lain; Menjelaskan secara standar hubungan pola dengan solusi</level>
+            <level percentage="40">Mengidentifikasi 2 pola/tren yang kurang spesifik; Melakukan analisis pola secara superfisial; Membandingkan dengan 1 contoh kasus dari daerah/negara lain; Penjelasan hubungan pola dengan solusi tidak jelas</level>
+            <level percentage="20">Mengidentifikasi 1-2 pola/tren yang tidak relevan; Tidak melakukan analisis pola yang memadai; Tidak ada perbandingan dengan kasus lain atau sangat lemah; Tidak dapat menjelaskan hubungan pola dengan solusi</level>
+            <level percentage="0">Tidak mengidentifikasi pola/tren apapun; Tidak ada analisis pola dalam masalah SDG; Tidak ada perbandingan dengan kasus lain; Tidak ada penjelasan tentang pattern recognition</level>
+        </levels>
+    </criterion>
+    
+    <criterion>
+        <name>Penerapan Abstraction</name>
+        <weight>15</weight>
+        <levels>
+            <level percentage="100">Membuat model abstrak yang sangat jelas dan merepresentasikan masalah dengan sempurna; Mengidentifikasi 7 atau lebih faktor utama dengan justifikasi yang sangat kuat; Menjelaskan dengan sangat detail dan tepat mengapa detail tertentu diabaikan; Membuat diagram model abstrak yang sangat jelas, informatif, dan mudah dipahami</level>
+            <level percentage="80">Membuat model abstrak yang jelas dan merepresentasikan masalah dengan baik; Mengidentifikasi 6-7 faktor utama dengan justifikasi yang baik; Menjelaskan dengan baik mengapa detail tertentu diabaikan; Membuat diagram model abstrak yang jelas dan informatif</level>
+            <level percentage="60">✅  Membuat model abstrak yang cukup merepresentasikan masalah; Mengidentifikasi 5-6 faktor utama dengan justifikasi standar; Menjelaskan secara umum tentang detail yang diabaikan; Membuat diagram model abstrak yang cukup jelas</level>
+            <level percentage="40">Membuat model abstrak yang kurang merepresentasikan masalah; Mengidentifikasi 4-5 faktor utama tanpa justifikasi yang memadai; Tidak menjelaskan dengan jelas tentang detail yang diabaikan; Membuat diagram model abstrak yang kurang jelas</level>
+            <level percentage="20">Membuat model abstrak yang tidak tepat atau tidak jelas; Mengidentifikasi kurang dari 4 faktor utama; Tidak dapat menjelaskan proses abstraksi dengan benar; Diagram model abstrak tidak ada atau sangat tidak jelas</level>
+            <level percentage="0">Tidak membuat model abstrak dari masalah; Tidak mengidentifikasi faktor-faktor utama; Tidak ada penjelasan tentang proses abstraksi; Tidak ada diagram atau model yang dibuat</level>
+        </levels>
+    </criterion>
+    
+    <criterion>
+        <name>Penerapan Abstraction</name>
+        <weight>15</weight>
+        <levels>
+            <level percentage="100">Merancang algoritma yang sangat sistematis, logis, dan komprehensif untuk menyelesaikan masalah; Membuat flowchart atau pseudocode yang sangat jelas, detail, dan mudah diikuti; Menentukan input, proses, dan output dengan sangat tepat dan spesifik; Menjelaskan logika setiap langkah algoritma dengan sangat detail dan masuk akal</level>
+            <level percentage="80">Merancang algoritma yang sistematis dan logis untuk menyelesaikan masalah;  Membuat flowchart atau pseudocode yang jelas dan mudah diikuti; Menentukan input, proses, dan output dengan tepat; Menjelaskan logika setiap langkah algoritma dengan baik</level>
+            <level percentage="60">Merancang algoritma yang cukup sistematis untuk menyelesaikan masalah; Membuat flowchart atau pseudocode yang cukup jelas; Menentukan input, proses, dan output secara umum; Menjelaskan logika algoritma secara standar</level>
+            <level percentage="40">Merancang algoritma yang kurang sistematis atau tidak lengkap; Membuat flowchart atau pseudocode yang kurang jelas; Input, proses, dan output tidak didefinisikan dengan tepat; Penjelasan logika algoritma kurang memadai</level>
+            <level percentage="20">Merancang algoritma yang tidak sistematis atau tidak logis; Flowchart atau pseudocode sangat tidak jelas atau salah; Tidak dapat menentukan input, proses, dan output dengan benar; Tidak ada penjelasan logika yang masuk akal</level>
+            <level percentage="0">Tidak merancang algoritma untuk menyelesaikan masalah; Tidak ada flowchart atau pseudocode yang dibuat; Tidak ada definisi input, proses, dan output; Tidak ada penjelasan tentang algorithm design</level>
+        </levels>
+    </criterion>
+    
+    <criterion>
+        <name>Solusi Teknologi Inovatif</name>
+        <weight>25</weight>
+        <levels>
+            <level percentage="100">Mengusulkan 5 solusi teknologi yang sangat inovatif, kreatif, dan orisinal; Memberikan deskripsi teknologi dan cara kerja yang sangat detail dan akurat; Komponen sistem dijelaskan dengan sangat lengkap dan spesifikasi teknis sangat tepat; Keunggulan dan manfaat dijelaskan dengan sangat spesifik dan terukur; Estimasi peningkatan kinerja sangat realistis dengan data pendukung</level>
+            <level percentage="80">Mengusulkan 4-5 solusi teknologi yang inovatif dan kreatif; Memberikan deskripsi teknologi dan cara kerja yang detail; Komponen sistem dijelaskan dengan lengkap dan spesifikasi teknis tepat; Keunggulan dan manfaat dijelaskan dengan spesifik; Estimasi peningkatan kinerja realistis</level>
+            <level percentage="60">Mengusulkan 4 solusi teknologi yang cukup inovatif; Memberikan deskripsi teknologi dan cara kerja yang cukup detail; Komponen sistem dijelaskan secara umum; Keunggulan dan manfaat dijelaskan secara standar; Estimasi peningkatan kinerja cukup realistis</level>
+            <level percentage="40">Mengusulkan 3-4 solusi teknologi yang kurang inovatif; Deskripsi teknologi dan cara kerja kurang detail; Komponen sistem tidak dijelaskan dengan jelas; Keunggulan dan manfaat tidak spesifik; Estimasi peningkatan kinerja tidak realistis</level>
+            <level percentage="20">Mengusulkan 2-3 solusi teknologi yang tidak inovatif; Deskripsi teknologi sangat superfisial; Komponen sistem tidak jelas atau salah; Tidak dapat menjelaskan keunggulan dengan tepat; Tidak ada estimasi yang masuk akal</level>
+            <level percentage="0">Tidak mengusulkan solusi teknologi atau kurang dari 2 solusi; Tidak ada deskripsi teknologi yang memadai; Tidak ada penjelasan cara kerja sistem; Tidak ada analisis keunggulan dan manfaat; Tidak ada estimasi dampak</level>
+        </levels>
+    </criterion>
+    
+    <criterion>
+        <name>Penerapan Abstraction</name>
+        <weight>15</weight>
+        <levels>
+            <level percentage="100">Struktur laporan sangat sistematis, lengkap, dan sesuai format yang diminta; Tulisan tangan sangat rapi, jelas, dan mudah dibaca; Diagram dan ilustrasi sangat jelas, informatif, dan mendukung penjelasan; Referensi sangat lengkap (7+ sumber), akurat, dan relevan dengan topik; Presentasi ide sangat jelas dan mudah dipahami</level>
+            <level percentage="80">Struktur laporan sistematis dan sesuai format yang diminta; Tulisan tangan rapi dan mudah dibaca; Diagram dan ilustrasi jelas dan mendukung penjelasan; Referensi lengkap (5-6 sumber), akurat, dan relevan; Presentasi ide jelas dan mudah dipahami</level>
+            <level percentage="60">Struktur laporan cukup sistematis dengan sedikit kekurangan; Tulisan tangan cukup rapi dan dapat dibaca; Diagram dan ilustrasi cukup jelas; Referensi cukup (5 sumber) dan cukup relevan; Presentasi ide cukup jelas</level>
+            <level percentage="40">Struktur laporan kurang sistematis atau tidak sesuai format; Tulisan tangan kurang rapi dan sulit dibaca di beberapa bagian; Diagram dan ilustrasi kurang jelas atau tidak informatif; Referensi kurang (3-4 sumber) atau kurang relevan; Presentasi ide kurang jelas dan membingungkan</level>
+            <level percentage="20">Struktur laporan tidak sistematis dan tidak sesuai format; Tulisan tangan tidak rapi dan sulit dibaca; Diagram dan ilustrasi tidak ada atau sangat tidak jelas; Referensi sangat kurang (1-2 sumber) dan tidak relevan; Presentasi ide sangat tidak jelas</level>
+            <level percentage="0">Tidak ada struktur laporan yang jelas; Tulisan tidak dapat dibaca atau tidak ada; Tidak ada diagram atau ilustrasi; Tidak ada referensi atau referensi tidak valid; Tidak dapat mempresentasikan ide dengan baik</level>
+        </levels>
+    </criterion>
+</rubric>
